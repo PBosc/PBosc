@@ -1,6 +1,6 @@
 <!-- Banner or animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20PBosc's%20Profile!&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontAlignY=35" />
 </p>
 
 ### 👋 Hey there!
@@ -25,12 +25,3 @@ I'm a cybersecurity enthusiast from [School 42](https://42.fr/). I love building
 - 🧠 Reversing and low level enthusiast
 - 💬 I speak: French 🇫🇷, English 🇬🇧
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PBosc&style=flat-square&color=blue" alt="Profile views" />
-</p>
