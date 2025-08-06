@@ -16,7 +16,7 @@ I'm a cybersecurity enthusiast from [School 42](https://42.fr/). I love building
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=amd&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
